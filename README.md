@@ -14,7 +14,7 @@
 
 3) Which part of the vulnerability assessment was challenging or helpful to you?
 
-  Identifying false positives was the most challenging because it required more understanding of each vulnerability. Usually, a true positive is easier to identify because you can quickly see which functions or features of a dependency might be causing the vulnerability. However, with false positives, it's difficult to know if the vulnerability is just deeply hidden or if it's not there at all. 
+   Identifying false positives was the most challenging because it required more understanding of each vulnerability. Usually, a true positive is easier to identify because you can quickly see which functions or features of a dependency might be causing the vulnerability. However, with false positives, it's difficult to know if the vulnerability is just deeply hidden or if it's not there at all. 
 
 
 
